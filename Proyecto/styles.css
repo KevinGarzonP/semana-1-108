@@ -1,0 +1,21 @@
+body {
+    width: 1280px;
+    /* height: 1024px; */
+    margin-right: auto;
+    margin-left: auto;
+}
+
+h2 {
+    text-align: center;
+}
+
+.noticias {
+    background-color: cadetblue;
+    display: flex;
+    justify-content: space-evenly;
+    text-align: justify;
+}
+
+.noticia {
+    display: flex; 
+}
